@@ -1,6 +1,6 @@
 # ExpressionIdentifier
 
-<h3>Instructions to run the code:</h3><br>
+<h3>Instructions to run the code:</h3>
 <b>Download the dataset:</b><br>
 <b>Link to the dataset -</b> https://www.kaggle.com/deadskull7/fer2013<br>
 Create a folder with the name "data" in the root directory of the project. Download and place the Fer2013 dataset in this data folder.<br>
